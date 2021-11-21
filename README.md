@@ -1,6 +1,6 @@
 # CrytyScreener
 
-CrytyScreener - Flutter Cryptocurrency Price Tracker Complete App
+## CrytyScreener - Flutter Cryptocurrency Price Tracker Complete App
 
 # || Flutter Speed Code
 # || http: Rest Api
@@ -10,5 +10,5 @@ CrytyScreener - Flutter Cryptocurrency Price Tracker Complete App
 # || Recurring Functions
 # || Neumorphism UI
 
-CoinGecko Api: https://www.coingecko.com/en/api
-http Package: https://pub.dev/packages/http
+## CoinGecko Api: https://www.coingecko.com/en/api
+## http Package: https://pub.dev/packages/http
