@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/cryptobase/BuildConfig.java
+ com.example.cryptobase.BuildConfig
